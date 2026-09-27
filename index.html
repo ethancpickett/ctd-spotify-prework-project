@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Spotify Music Explorer</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <header>
+    <h1>Spotify Music Explorer</h1>
+    <div class="search-container">
+      <input type="text" id="artist-input" placeholder="Type an artist name (e.g. Pink Floyd)...">
+      <button id="search-btn">Search Artist</button>
+    </div>
+  </header>
+
+  <main>
+    <!-- View 1: Artist Details Endpoint -->
+    <section id="artist-section">
+      <div id="artist-container">
+        <!-- JavaScript will inject artist info here -->
+      </div>
+    </section>
+
+    <!-- View 2: Top Tracks Endpoint -->
+    <section id="tracks-section">
+      <div id="tracks-container">
+        <!-- JavaScript will inject track cards here -->
+      </div>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

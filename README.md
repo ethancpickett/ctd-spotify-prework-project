@@ -1,2 +1,2 @@
-# ctd-spotify-prework-project
-Pre-work project for Code the Dream using Spotify API
+# Spotify Music Explorer
+Pre-work assignment project for Code the Dream using the Spotify Web API.
