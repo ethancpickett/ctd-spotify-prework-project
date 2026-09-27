@@ -1,2 +1,2 @@
 # Spotify Music Explorer
-Pre-work assignment project for Code the Dream using the Spotify Web API.
+Web API - Spotify, Artist Search & Top 5 Tracks (closed End-Point "Top Tracks" on Spotify Developer side).
